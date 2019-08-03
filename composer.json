@@ -1,0 +1,20 @@
+{
+    "name": "yantb/packagetest",
+    "description": "Ejemplo de crear un package en PHP",
+    "license": "MIT",
+    "keywords": ["yantb"],
+    "authors": [
+        {
+            "name": "Nicolas Ormeno",
+            "email": "me@correo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+        "Yantb\\PackageTest\\": "src/"
+    }
+  },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
