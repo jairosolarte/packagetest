@@ -1,6 +1,6 @@
 <?php
  
-use Yantb\PackageTest\Principal;
+use Jsolarte\PackageTest\Principal;
 use PHPUnit\Framework\TestCase;
  
 class PrincipalTest extends TestCase {

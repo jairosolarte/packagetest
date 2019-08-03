@@ -1,6 +1,6 @@
 <?php
  
-namespace Yantb\PackageTest;
+namespace Jsolarte\PackageTest;
  
 class Respuesta {
  

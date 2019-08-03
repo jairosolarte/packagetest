@@ -1,17 +1,17 @@
 {
-    "name": "yantb/packagetest",
+    "name": "jairosolarte/packagetest",
     "description": "Ejemplo de crear un package en PHP",
     "license": "MIT",
-    "keywords": ["yantb"],
+    "keywords": ["jsolarte"],
     "authors": [
         {
-            "name": "Nicolas Ormeno",
-            "email": "me@correo.com"
+            "name": "Jairo Solarte",
+            "email": "jairosolarte0@gmail.com"
         }
     ],
     "autoload": {
         "psr-4": {
-        "Yantb\\PackageTest\\": "src/"
+        "Jsolarte\\PackageTest\\": "src/"
     }
   },
     "require-dev": {

@@ -1,8 +1,8 @@
 <?php
  
-namespace Yantb\PackageTest;
+namespace Jsolarte\PackageTest;
  
-use Yantb\PackageTest\Respuesta;
+use Jsolarte\PackageTest\Respuesta;
  
 class Principal {
  
